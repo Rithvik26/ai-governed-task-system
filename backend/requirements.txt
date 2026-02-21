@@ -1,0 +1,5 @@
+flask>=3.0.0
+flask-sqlalchemy>=3.1.0
+# marshmallow 4.x: @validates methods must accept **kwargs (data_key is passed as kwarg)
+marshmallow>=4.0.0
+pytest>=7.4.0

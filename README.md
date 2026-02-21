@@ -1,11 +1,12 @@
-# Task Tracker
+# AI-Governed Task Lifecycle System
 
-A deliberately small, structurally correct project-based task tracker built as
-an engineering assessment. The goal is a system that is easy to reason about,
-extend, and verify — not a feature-complete product.
+A deliberately small system designed to demonstrate state correctness, safe
+evolution, and controlled AI-assisted development — built as an engineering
+assessment.
 
-Feature count is intentionally small. Every design decision optimises for
-clarity and correctness over convenience.
+The goal is not feature richness. Every decision optimises for: preventing
+invalid states, clear layer boundaries, testability, and explicit AI
+governance.
 
 ---
 
